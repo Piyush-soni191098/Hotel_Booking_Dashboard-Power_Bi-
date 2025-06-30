@@ -60,6 +60,8 @@ All visualizations are interactive and designed to highlight business patterns c
 - Bookings from Portugal dominated the dataset
 - Lead time has a significant effect on cancellation probability
 - Longer stays were more common among resort hotel guests
+- ![image](https://github.com/user-attachments/assets/a2b90f89-622e-4150-8d7c-ba74ee483e2d)
+
 
 ---
 
